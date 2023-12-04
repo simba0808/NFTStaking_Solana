@@ -1,6 +1,5 @@
 # ⛏ Quarry
 
-[![Build Status](https://img.shields.io/github/workflow/status/QuarryProtocol/quarry/E2E/master)](https://github.com/QuarryProtocol/quarry/actions/workflows/programs-e2e.yml?query=branch%3Amaster)
 
 <p align="center">
     <img src="/images/banner.png" />
